@@ -1,0 +1,1 @@
+# ITAI2372_Artificial-Intel-Applications
